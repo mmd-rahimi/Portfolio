@@ -1,13 +1,12 @@
 import React from "react";
+import { IoMenuSharp } from "react-icons/io5";
 
 function Navbar() {
   return (
-    <div className="flex flex-row justify-between py-8 px-10 font-semibold text-2xl text-white">
+    <div className="flex flex-row justify-between py-4 px-6 text-white items-center">
       <div>` Mohamad mahdi Rahimi `</div>
-      <div className="flex flex-row gap-6">
-        <button>Home</button>
-        <button>About</button>
-        <button>Contact</button>
+      <div className="">
+      <IoMenuSharp size={23}/>
       </div>
     </div>
   );
