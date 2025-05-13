@@ -1,7 +1,5 @@
 import React from "react";
-import { IoMenuSharp } from "react-icons/io5";
 import Hmenu from "./Hmenu";
-import "../styles/text.css";
 
 function Navbar() {
   return (
