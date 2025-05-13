@@ -44,7 +44,9 @@ const Hmenu = () => {
           Contact
         </a>
       </div>
-      <div className="hidden md:flex flex-row items-center gap-8 text-xl font-semibold">
+      <div className="hidden 
+      lg:text-2xl
+      md:flex flex-row items-center gap-8 text-xl font-semibold">
         <a href="#" className="text-[#EEEEEE] hover:scale-110 transition-transform duration-100 hover:text-[#00ADB5]">
           Home
         </a>

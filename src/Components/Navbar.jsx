@@ -3,11 +3,10 @@ import Hmenu from "./Hmenu";
 
 function Navbar() {
   return (
-    <div className="fixed w-full">
+    <div className="w-full">
       <div className=" flex flex-row justify-between py-4 px-6 text-[#EEEEEE] bg-[#222831] items-center md:py-8 md:px-8">
-        <div className="text-[#00ADB5] font-bold text-[.9rem] md:text-xl">Mohamad Rahimi</div>
+        <div className="text-[#00ADB5] font-bold text-[.9rem] sm:text-lg md:text-xl lg:text-2xl">Mohamad Rahimi</div>
         <div className="">
-          {/* <IoMenuSharp size={23}/> */}
           <Hmenu />
         </div>
       </div>
