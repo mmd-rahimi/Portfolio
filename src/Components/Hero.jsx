@@ -5,8 +5,8 @@ import "../styles/btn.css";
 function Hero() {
   return (
     <div
-      className="hero text-[#EEEEEE] flex flex-col gap-10 md:flex-row
-      w-full h-[40rem] py-4 px-6 md:h-[37rem] md:px-12"
+      className="hero text-[#EEEEEE] flex flex-col gap-14 md:flex-row
+      w-full h-[38.3rem] py-4 px-6 sm:h-[47.6rem] sm:gap-20 md:h-[37rem] md:px-12"
     >
       <div className="flex flex-col gap-6 justify-center items-center sm:gap-8 md:items-start">
         {/* Hello */}
@@ -15,7 +15,7 @@ function Hero() {
         </div>
         {/* Im mohamad */}
         <div className="text-4xl font-bold text-center sm:text-5xl md:text-[3.5rem] lg:text-[5rem] md:text-left">
-          <span className="font-bold text-4xl text-[#00ADB5]">__ </span>
+          <span className="font-bold text-4xl text-[#00ADB5]">. </span>
           <span className="font-light">I'm</span> MOHAMAD
         </div>
         {/* Front-End Developer md */}
@@ -38,9 +38,9 @@ function Hero() {
         </div>
       </div>
       {/* image BG */}
-      <div className="flex-1 relative lg:mt-0 flex justify-center items-center">
+      <div className="relative lg:mt-0 flex justify-center items-center">
         <div className="relative w-[230px] sm:w-[280px] lg:w-[320px] aspect-square">
-          <div className="absolute inset-[-8px] translate-y-4 rounded-full border-[8px] border-[#d76352] shadow-xl shadow-[#d76352] z-0">
+          <div className="absolute inset-[-8px] translate-y-4 rounded-full border-[8px] border-[#00ADB5] shadow-xl shadow-[#00ADB5] z-0">
             <div className="absolute inset-0 flex justify-center items-center z-10">
             {/* image */}
 
