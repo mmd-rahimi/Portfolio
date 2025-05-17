@@ -1,14 +1,12 @@
 import React from "react";
-import Hero from "./Hero";
-import Navbar from "./Navbar";
-import Iconbar from "./Iconbar";
-import Test from "./test";
+import Hero from "../Components/Hero";
+import Iconbar from "../Components/Iconbar";
+import Test from "../Components/test";
 
 function Home() {
   return (
     <div className="scroll-smooth">
       <div className="bg-black">
-      <Navbar />
         <Hero />
         <Iconbar />
         <Test />

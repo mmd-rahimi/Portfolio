@@ -2,6 +2,7 @@ import React from "react";
 
 import { useState } from "react";
 import { IoMenuSharp } from "react-icons/io5";
+import { NavLink } from "react-router";
 
 const Hmenu = () => {
   const [isOpen, setIsOpen] = useState(false);
@@ -28,34 +29,34 @@ const Hmenu = () => {
             : "opacity-0 -translate-y-2 invisible"
         }`}
       >
-        <a
-          href="#"
+        <NavLink
+          to="/"
           className="block px-4 py-2 text-[#EEEEEE] border-b-2 border-[#00ADB5]"
         >
           Home
-        </a>
-        <a
-          href="#"
+        </NavLink>
+        <NavLink
+          to="/about"
           className="block px-4 py-2 text-[#EEEEEE] border-b-2 border-[#00ADB5]"
         >
           About
-        </a>
-        <a href="#" className="block px-4 py-2 text-[#EEEEEE]">
+        </NavLink>
+        <NavLink to="/contact" className="block px-4 py-2 text-[#EEEEEE]">
           Contact
-        </a>
+        </NavLink>
       </div>
       <div className="hidden 
       lg:text-2xl
       md:flex flex-row items-center gap-8 text-xl font-semibold">
-        <a href="#" className="text-[#EEEEEE] hover:scale-110 transition-transform duration-100 hover:text-[#00ADB5]">
+        <NavLink to="/" className="text-[#EEEEEE] hover:scale-110 transition-transform duration-100 hover:text-[#00ADB5]">
           Home
-        </a>
-        <a href="#" className="text-[#EEEEEE] hover:scale-110 transition-transform duration-100 hover:text-[#00ADB5]">
+        </NavLink>
+        <NavLink to="/about" className="text-[#EEEEEE] hover:scale-110 transition-transform duration-100 hover:text-[#00ADB5]">
           About
-        </a>
-        <a href="#" className="text-[#EEEEEE] hover:scale-110 transition-transform duration-100 hover:text-[#00ADB5]">
+        </NavLink>
+        <NavLink to="/contact" className="text-[#EEEEEE] hover:scale-110 transition-transform duration-100 hover:text-[#00ADB5]">
           Contact
-        </a>
+        </NavLink>
       </div>
     </div>
   );
