@@ -12,12 +12,12 @@ function Hero() {
       ">
       <div className="flex flex-col gap-6 justify-center items-center sm:gap-8 md:items-start">
         {/* Hello */}
-        <div className="font-semibold text-4xl sm:text-5xl md:text-[2.5rem] lg:text-[5rem] ">
+        <div className="font-semibold text-4xl sm:text-5xl md:text-[2.5rem] lg:text-[4rem] ">
           Hello <span className="text-[#00ADB5]">.</span>
         </div>
         {/* Im mohamad */}
-        <div className="text-4xl font-bold text-center sm:text-5xl md:text-[3rem] lg:text-[5rem] md:text-left">
-          <span className="font-semibold text-4xl sm:text-5xl md:text-[2.5rem] lg:text-[5rem] text-[#00ADB5]">. </span>
+        <div className="text-4xl font-bold text-center sm:text-5xl md:text-[3rem] lg:text-[4rem] md:text-left">
+          <span className="font-semibold text-4xl sm:text-5xl md:text-[2.5rem] lg:text-[4rem] text-[#00ADB5]">. </span>
           <span className="font-light">I'm</span> MOHAMAD
         </div>
         {/* Front-End Developer md */}
