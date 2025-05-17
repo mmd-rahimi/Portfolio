@@ -30,13 +30,13 @@ const Hmenu = () => {
       >
         <a
           href="#"
-          className="block px-4 py-2 text-[#EEEEEE] border-b border-[#00ADB5]"
+          className="block px-4 py-2 text-[#EEEEEE] border-b-2 border-[#00ADB5]"
         >
           Home
         </a>
         <a
           href="#"
-          className="block px-4 py-2 text-[#EEEEEE] border-b border-[#00ADB5]"
+          className="block px-4 py-2 text-[#EEEEEE] border-b-2 border-[#00ADB5]"
         >
           About
         </a>
