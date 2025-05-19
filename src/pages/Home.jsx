@@ -2,14 +2,19 @@ import React from "react";
 import Hero from "../Components/Hero";
 import Iconbar from "../Components/Iconbar";
 import Test from "../Components/test";
+import About from "../Components/About";
+import Contact from "../Components/Contact";
 
 function Home() {
   return (
     <div className="scroll-smooth">
-      <div className="bg-black">
+      <div className="">
         <Hero />
         <Iconbar />
-        <Test />
+        <div className="py-12">
+        <About />
+        </div>
+        <Contact />
       </div>
     </div>
   );

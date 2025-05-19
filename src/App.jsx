@@ -1,18 +1,18 @@
 import { Route, BrowserRouter as Router, Routes } from "react-router";
 import Home from "./pages/Home";
 import Navbar from "./Components/Navbar";
-import Contact from "./pages/Contact";
-import About from "./pages/About";
+import ContactP from "./pages/ContactP";
+import AboutP from "./pages/AboutP";
 
 function App() {
   return (
-    <div className="">
+    <div className="bg-[#222831]">
       <Router>
       <Navbar />
         <Routes>
           <Route path="/" element={<Home/>} />
-          <Route path="/contact" element={<Contact/>} />
-          <Route path="/about" element={<About/>} />
+          <Route path="/contact" element={<ContactP/>} />
+          <Route path="/about" element={<AboutP/>} />
         </Routes>
       </Router>
     </div>
