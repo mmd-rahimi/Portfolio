@@ -1,6 +1,7 @@
 import React from 'react'
 import { FaCode } from 'react-icons/fa'
 
+
 function About() {
   return (
     <div className='px-8 flex flex-col gap-14 text-[#EEEEEE] bg-[#222831]'>
