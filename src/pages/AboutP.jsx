@@ -3,7 +3,7 @@ import About from '../Components/About'
 
 function AboutP() {
   return (
-    <div><About /></div>
+    <div className='py-6'><About /></div>
   )
 }
 
