@@ -36,7 +36,11 @@ function Hero() {
          lg:text-2xl lg:py-6 lg:px-12 lg:font-bold lg:rounded-4xl
          "
         >
+          <a href="../public/pdf/main-Resume.pdf"
+          download="rahimi"
+          >
           <button className="cursor-pointer">Download Resume</button>
+          </a>
         </div>
       </div>
       {/* image BG */}
