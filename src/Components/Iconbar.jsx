@@ -31,7 +31,7 @@ function Iconbar() {
           <div className="icon-item">
             <img
               className="size-11 transition-transform duration-200 hover:scale-125 sm:size-13 md:size-13 lg:size-14"
-              src="../public/images/javascript-logo-svgrepo-com.svg"
+              src="../images/javascript-logo-svgrepo-com.svg"
               alt="JavaScript"
             />
           </div>
