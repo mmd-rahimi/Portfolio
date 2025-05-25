@@ -1,6 +1,5 @@
 import React from 'react'
-import { CiMobile1 } from 'react-icons/ci'
-import { FaCode, FaMobile, FaMobileAlt } from 'react-icons/fa'
+import { FaCode , FaMobileAlt } from 'react-icons/fa'
 import { FaBoltLightning } from 'react-icons/fa6'
 import { HiOutlineServer } from 'react-icons/hi'
 
