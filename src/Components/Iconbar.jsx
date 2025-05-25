@@ -5,7 +5,7 @@ function Iconbar() {
   return (
     <div className="iconbar w-full h-[6rem] shadow-xl rounded-b overflow-x-auto">
       <div className="iconbar-content flex items-center h-full py-2">
-        <style jsx>{`
+        <style>{`
           .iconbar::-webkit-scrollbar {
             width: 6px;
             height: 6px;
