@@ -31,126 +31,126 @@ function Iconbar() {
           <div className="icon-item">
             <img
               className="size-11 transition-transform duration-200 hover:scale-125 sm:size-13 md:size-13 lg:size-14"
-              src="./src/assets/javascript-logo-svgrepo-com.svg"
+              src="../public/images/javascript-logo-svgrepo-com.svg"
               alt="JavaScript"
             />
           </div>
           <div className="icon-item">
             <img
               className="size-11 transition-transform duration-200 hover:scale-125 sm:size-13 md:size-13 lg:size-14"
-              src="./src/assets/typescript-logo-svgrepo-com.svg"
+              src="../public/images/typescript-logo-svgrepo-com.svg"
               alt="TypeScript"
             />
           </div>
           <div className="icon-item">
             <img
               className="size-11 transition-transform duration-200 hover:scale-125 sm:size-13 md:size-13 lg:size-14"
-              src="./src/assets/react.svg"
+              src="../public/images/react.svg"
               alt="React"
             />
           </div>
           <div className="icon-item">
             <img
               className="size-11 transition-transform duration-200 hover:scale-125 sm:size-13 md:size-13 lg:size-14"
-              src="./src/assets/next-js-svgrepo-com.svg"
+              src="../public/images/next-js-svgrepo-com.svg"
               alt="Next.js"
             />
           </div>
           <div className="icon-item">
             <img
               className="size-11 transition-transform duration-200 hover:scale-125 sm:size-13 md:size-13 lg:size-14"
-              src="./src/assets/tailwind-svgrepo-com.svg"
+              src="../public/images/tailwind-svgrepo-com.svg"
               alt="Tailwind CSS"
             />
           </div>
           <div className="icon-item">
             <img
               className="size-11 transition-transform duration-200 hover:scale-125 sm:size-13 md:size-13 lg:size-14"
-              src="./src/assets/github-142-svgrepo-com.svg"
+              src="../public/images/github-142-svgrepo-com.svg"
               alt="GitHub"
             />
           </div>
           <div className="icon-item">
             <img
               className="size-11 transition-transform duration-200 hover:scale-125 sm:size-13 md:size-13 lg:size-14"
-              src="./src/assets/redux-svgrepo-com.svg"
+              src="../public/images/redux-svgrepo-com.svg"
               alt="Redux"
             />
           </div>
           <div className="icon-item">
             <img
               className="size-11 transition-transform duration-200 hover:scale-125 sm:size-13 md:size-13 lg:size-14"
-              src="./src/assets/html-5-svgrepo-com.svg"
+              src="../public/images/html-5-svgrepo-com.svg"
               alt="HTML5"
             />
           </div>
           <div className="icon-item">
             <img
               className="size-11 transition-transform duration-200 hover:scale-125 sm:size-13 md:size-13 lg:size-14"
-              src="./src/assets/css-svgrepo-com.svg"
+              src="../public/images/css-svgrepo-com.svg"
               alt="CSS3"
             />
           </div>
           <div className="icon-item">
             <img
               className="size-11 transition-transform duration-200 hover:scale-125 sm:size-13 md:size-13 lg:size-14"
-              src="./src/assets/figma-svgrepo-com.svg"
+              src="../public/images/figma-svgrepo-com.svg"
               alt="Figma"
             />
           </div>
           <div className="icon-item">
             <img
               className="size-11 transition-transform duration-200 hover:scale-125 sm:size-13 md:size-13 lg:size-14"
-              src="./src/assets/react-router-svgrepo-com.svg"
+              src="../public/images/react-router-svgrepo-com.svg"
               alt="React Router"
             />
           </div>
           <div className="icon-item">
             <img
               className="size-11 transition-transform duration-200 hover:scale-125 sm:size-13 md:size-13 lg:size-14"
-              src="./src/assets/npm-svgrepo-com.svg"
+              src="../public/images/npm-svgrepo-com.svg"
               alt="npm"
             />
           </div>
           <div className="icon-item">
             <img
               className="size-11 transition-transform duration-200 hover:scale-125 sm:size-13 md:size-13 lg:size-14"
-              src="./src/assets/bootstrap-svgrepo-com.svg"
+              src="../public/images/bootstrap-svgrepo-com.svg"
               alt="Bootstrap"
             />
           </div>
           <div className="icon-item">
             <img
               className="size-11 transition-transform duration-200 hover:scale-125 sm:size-13 md:size-13 lg:size-14"
-              src="./src/assets/api-svgrepo-com(1).svg"
+              src="../public/images/api-svgrepo-com(1).svg"
               alt="API"
             />
           </div>{" "}
           <div className="icon-item">
             <img
               className="size-11 transition-transform duration-200 hover:scale-125 sm:size-13 md:size-13 lg:size-14"
-              src="./src/assets/vite-svgrepo-com.svg"
+              src="../public/images/vite-svgrepo-com.svg"
               alt="Vite"
             />
           </div>{" "}
           <div className="icon-item">
             <img
               className="size-11 transition-transform duration-200 hover:scale-125 sm:size-13 md:size-13 lg:size-14"
-              src="./src/assets/git-svgrepo-com.svg"
+              src="../public/images/git-svgrepo-com.svg"
               alt="git"
             />
           </div>{" "}
           <div className="icon-item">
             <img
               className="size-11 transition-transform duration-200 hover:scale-125 sm:size-13 md:size-13 lg:size-14"
-              src="./src/assets/postman-icon-svgrepo-com.svg"
+              src="../public/images/postman-icon-svgrepo-com.svg"
               alt="Vite"
             />
           </div>
           <div className="icon-item">
             <img
               className="size-11 transition-transform duration-200 hover:scale-125 sm:size-13 md:size-13 lg:size-14"
-              src="./src/assets/supabase-logo-icon.png"
+              src="../public/images/supabase-logo-icon.png"
               alt="Vite"
             />
           </div>

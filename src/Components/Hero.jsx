@@ -52,9 +52,8 @@ function Hero() {
 
               <img
                 className="object-cover"
-                src="./src/assets/Clipped_image_20250524_141654.png"
+                src="../images/Clipped_image_20250524_141654.png"
               />
-
             </div>
           </div>
         </div>
