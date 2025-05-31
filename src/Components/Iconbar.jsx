@@ -63,6 +63,21 @@ function Iconbar() {
               alt="Tailwind CSS"
             />
           </div>
+                    <div className="icon-item">
+            <img
+              className="size-11 transition-transform duration-200 hover:scale-125 sm:size-13 md:size-13 lg:size-14"
+              src="../images/shadcn-ui-seeklogo.svg"
+              alt="Vite"
+            />
+          </div>
+          {/* ubuntu-svgrepo-com.svg */}
+                    <div className="icon-item">
+            <img
+              className="size-13 transition-transform duration-200 hover:scale-125 sm:size-15 md:size-16 lg:size-17"
+              src="../images/ubuntu-svgrepo-com.svg"
+              alt="GitHub"
+            />
+          </div>
           <div className="icon-item">
             <img
               className="size-11 transition-transform duration-200 hover:scale-125 sm:size-13 md:size-13 lg:size-14"
@@ -147,13 +162,7 @@ function Iconbar() {
               alt="Vite"
             />
           </div>
-          <div className="icon-item">
-            <img
-              className="size-11 transition-transform duration-200 hover:scale-125 sm:size-13 md:size-13 lg:size-14"
-              src="../images/supabase-logo-icon.png"
-              alt="Vite"
-            />
-          </div>
+
         </div>
       </div>
     </div>
