@@ -54,7 +54,7 @@ function Contact() {
             <div className='text-'><FaLinkedin className='size-7 sm:size-8 text-[#00ADB5]'/></div>
             <div className='flex flex-col justify-start items-start'>
               <p className='font-light text-sm sm:text-md text-gray-400'>Linkedin</p>
-              <p className='text-md sm:text-lg'>-</p>
+              <p className='text-md sm:text-lg'>https://www.linkedin.com/in/mohammad-rahiami-ab881036a</p>
             </div>
           </div>
         </div>

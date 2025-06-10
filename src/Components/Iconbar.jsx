@@ -72,8 +72,8 @@ function Iconbar() {
           </div>
                     <div className="icon-item">
             <img
-              className="size-13 transition-transform duration-200 hover:scale-125 sm:size-15 md:size-16 lg:size-17"
-              src="../images/ubuntu-svgrepo-com.svg"
+              className="size-11 transition-transform duration-200 hover:scale-125 sm:size-13 md:size-14 lg:size-15"
+              src="../images/linux-icon.svg"
               alt="GitHub"
             />
           </div>
