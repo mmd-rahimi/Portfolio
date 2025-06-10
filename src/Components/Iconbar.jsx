@@ -70,7 +70,6 @@ function Iconbar() {
               alt="Vite"
             />
           </div>
-          {/* ubuntu-svgrepo-com.svg */}
                     <div className="icon-item">
             <img
               className="size-13 transition-transform duration-200 hover:scale-125 sm:size-15 md:size-16 lg:size-17"
@@ -89,6 +88,13 @@ function Iconbar() {
             <img
               className="size-11 transition-transform duration-200 hover:scale-125 sm:size-13 md:size-13 lg:size-14"
               src="../images/redux-svgrepo-com.svg"
+              alt="Redux"
+            />
+          </div>
+                    <div className="icon-item">
+            <img
+              className="size-11 transition-transform duration-200 hover:scale-125 sm:size-13 md:size-13 lg:size-14"
+              src="../images/zod-seeklogo.png"
               alt="Redux"
             />
           </div>
